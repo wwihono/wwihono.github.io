@@ -3,6 +3,7 @@
 > winstw2@uw.edu
 > https://www.linkedin.com/in/wwihono-cs  
 > https://github.com/wwihono
+> ![Profile Picture](pfp.png)
 
 ---
 
@@ -20,10 +21,6 @@
 
 ## University of Washington (Seattle, WA)
 
-
-::contentReference[oaicite:0]{index=0}
-
-
 > *The University of Washington is a top public research university known for its strengths in computer science, data science, and interdisciplinary research.*
 
 **Innovation Lead / Software Developer (Student Organization Leadership)**  
@@ -40,10 +37,6 @@
 
 ## DHL (Remote / Indonesia & Seattle)
 
-
-::contentReference[oaicite:1]{index=1}
-
-
 > *DHL is a global logistics company operating in over 220 countries, specializing in international shipping and supply-chain solutions.*
 
 **Data & Cloud Systems Intern (Operations Analytics)**  
@@ -59,10 +52,6 @@
 ---
 
 ## Independent Software & Data Projects (Seattle, WA / Remote)
-
-
-::contentReference[oaicite:2]{index=2}
-
 
 **Full-Stack Developer / Data Analyst**  
 > *Jan 2023 – Present*
