@@ -1,8 +1,8 @@
 # Winston Wihono
 
-winstw@uw.edu
-https://www.linkedin.com/in/wwihono-cs  
-https://github.com/wwihono 
+[winstw2@uw.edu](mailto:winstw2@uw.edu) 
+[LinkedIn](https://www.linkedin.com/in/wwihono-cs)
+[GitHub](https://github.com/wwihono)
 
 ---
 
